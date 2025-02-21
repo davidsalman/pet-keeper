@@ -1,0 +1,30 @@
+{
+  "name": "pet-keeper",
+  "private": true,
+  "description": "pet-keeper is a wellbeing app for pets. users will use pet-keeper to track their pets feeding schedule and other activity schedules (such as walks, playtimes, grooming appointments and vetrenarian appointments).",
+  "main": "expo-router/entry",
+  "version": "1.0.0",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/davidsalman/pet-keeper.git"
+  },
+  "bugs": {
+    "url": "https://github.com/davidsalman/pet-keeper/issues"
+  },
+  "keywords": [
+    "pet",
+    "wellbeing",
+    "app",
+    "pets",
+    "feeding",
+    "schedule",
+    "activity",
+    "walks",
+    "playtimes",
+    "grooming",
+    "vetrenarian",
+    "appointments"
+  ],
+  "author": "David Salman",
+  "license": "MIT"
+}
